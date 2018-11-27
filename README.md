@@ -1,4 +1,4 @@
-﻿﻿## NameNPC
+# NameNPC
 
 NameNPC is a addon that allows your players to goto an NPC and change their name to whatever they want.
 
