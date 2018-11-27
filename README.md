@@ -1,8 +1,8 @@
-﻿﻿#NameNPC
+﻿﻿# NameNPC
 
 NameNPC is a addon that allows your players to goto an NPC and change their name to whatever they want.
 
-##Features
+## Features
 - Spawnable NPC
 - Dark VGUI Theme
 - Blocked Words
@@ -11,11 +11,11 @@ NameNPC is a addon that allows your players to goto an NPC and change their name
 - Easy Config
 - Custom Chat Messages, or use Notifications
 
-##Media
+## Media
 
 Youtube Video comming soon.
 
-##Support
+## Support
 If you need addon support goto my [website](http://livacoweb.000webhostapp.com/) ﻿and make a support ticket on the dashboard. YOU WILL NOT GET SUPPORT ANYWHERE ELSE. You may also use the ticket system to report bugs.
 
 Thanks for downloading!
